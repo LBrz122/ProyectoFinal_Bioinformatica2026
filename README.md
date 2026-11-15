@@ -39,12 +39,11 @@
 
 ## 📁 Estructura del repositorio
 .
-├── 📓 Brizuela_Proyecto_Final_Bioinformatica_2026.ipynb
-├── 📄 dataset.csv
-├── 📄 paper.pdf
-├── 📄 README.md
-└── 📄 GITHUB_URL.txt
-
+├── 📓 Brizuela_Proyecto_Final_Bioinformatica_2026.ipynb  \
+├── 📄 dataset.csv  \
+├── 📄 paper.pdf  \
+├── 📄 README.md  \
+└── 📄 GITHUB_URL.txt  \
 
 ---
 
