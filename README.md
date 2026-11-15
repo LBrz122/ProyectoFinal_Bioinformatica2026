@@ -38,7 +38,7 @@
 ---
 
 ## 📁 Estructura del repositorio
-.
+.  \
 ├── 📓 Brizuela_Proyecto_Final_Bioinformatica_2026.ipynb  \
 ├── 📄 dataset.csv  \
 ├── 📄 paper.pdf  \
