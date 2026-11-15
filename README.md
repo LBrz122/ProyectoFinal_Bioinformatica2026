@@ -148,4 +148,4 @@ Estos cinco concentran la mayor parte de la señal. IDH1 + edad ya separan la ma
 
 ## 👤 Autor
 
-**Brizuela** — Bioinformática 2026
+**Brizuela Luciano** — Bioinformática 2026
