@@ -141,7 +141,7 @@ Estos cinco concentran la mayor parte de la señal. IDH1 + edad ya separan la ma
 - **Codificación binaria**: los genes están como mutado / no mutado. Se pierde el tipo específico de mutación (ej. IDH1 R132H).
 - **Sin datos de expresión**: solo se usan mutaciones, no niveles de ARN ni metilación.
 - **Desbalance moderado**: 58 % LGG / 42 % GBM, manejado con `stratify` pero no eliminado.
-- **Comparación con Tasci et al. (2022)**: ellos reportan métricas > 90 % con *ensemble* y selección jerárquica. Nuestros resultados (F1 ≈ 0.86) son consistentes con la alta separabilidad del dataset, sin necesidad de métodos más complejos.
+- **Comparación con Tasci et al. (2022)**: Ellos reportan 87.6% de accuracy y 0.858 de F1 en TCGA usando un soft-voting ensemble de 3 modelos (SVM + RF + AdaBoost) con selección jerárquica de features. Nuestro árbol de decisión de profundidad 2 alcanza 86.9% de accuracy y 0.857 de F1 en TCGA, una diferencia de 0.7 pp en accuracy y 0.001 en F1. Esto sugiere que la señal molecular de IDH1 e IDH2 captura la mayor parte del poder predictivo del dataset, sin necesidad de ensembles más complejos."
 
 ---
 
